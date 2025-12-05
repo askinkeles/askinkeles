@@ -29,9 +29,24 @@ I am a passionate **Embedded Systems Engineer** specializing in both high-speed 
 
 ---
 
-### 🛠️ Technical Arsenal
+### 💻 Technical Stack
 
-#### 💻 Languages
+#### 💿 Operating Systems (OS)
+<p align="left">
+  <img src="https://img.shields.io/badge/RTOS-FreeRTOS-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Embedded_Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+#### 💾 Hardware & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/MCU-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCU-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCU-Atmel_AVR-00979D?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCU-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/HMI-DWIN_HMI-orange?style=for-the-badge" />
+</p>
+
+#### ⌨️ Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Delphi-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white" />
@@ -41,13 +56,21 @@ I am a passionate **Embedded Systems Engineer** specializing in both high-speed 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### ⚙️ Embedded Systems & Firmware (RTOS)
+#### 📐 PCB Design
 <p align="left">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atmel_AVR-00979D?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img src="https://img.shields.io/badge/RTOS-FreeRTOS-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eagle-F4F1F2?style=for-the-badge&logo=autodesk&logoColor=black" />
+  <img src="https://img.shields.io/badge/KiCad-3146A2?style=for-the-badge&logo=kicad&logoColor=white" />
+</p>
+
+#### 🛠️ Development Tools & IDEs
+<p align="left">
+  <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-PlatformIO-f68212?style=for-the-badge&logo=platformio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-DGUS_Software-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool-Modbus_Poll-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool-Modbus_Slave-brown?style=for-the-badge" />
 </p>
 
 #### 🔌 Protocols & Interfaces
@@ -57,14 +80,6 @@ I am a passionate **Embedded Systems Engineer** specializing in both high-speed 
   <img src="https://img.shields.io/badge/Comms-I2C_%7C_SPI_%7C_UART-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireless-LoRa_%7C_BLE_%7C_WiFi-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sensors-4--20mA_%7C_0--10V-yellow?style=for-the-badge" />
-</p>
-
-#### 📐 PCB Design & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eagle-F4F1F2?style=for-the-badge&logo=autodesk&logoColor=black" />
-  <img src="https://img.shields.io/badge/KiCad-3146A2?style=for-the-badge&logo=kicad&logoColor=white" />
 </p>
 
 ---
@@ -100,18 +115,3 @@ Here are some of the complex systems I have designed and programmed:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askinkeles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
-
-<!--
-**askinkeles/askinkeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
