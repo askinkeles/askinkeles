@@ -94,11 +94,11 @@ Here are some of the complex systems I have designed and programmed:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=recepsenbas&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=askinkeles&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recepsenbas&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askinkeles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <!--
