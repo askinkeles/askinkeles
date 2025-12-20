@@ -8,7 +8,7 @@
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0059B3,100:007EC6&height=260&section=header&text=A%C5%9Fk%C4%B1n%20KELE%C5%9E&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0059B3,100:007EC6&height=260&section=header&text=A%C5%9Fk%C4%B1n%20KELE%C5%9E&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Physics%20Engineer%20%7C%20Tech%20Leader%20%7C%20Solution%20Architect&descSize=20&descAlign=50&descAlignY=55&descColor=ffffff" />
   
   <h3>🚀 Technology Leader & Solution Architect</h3>
   

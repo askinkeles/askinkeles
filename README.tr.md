@@ -5,7 +5,73 @@
   <a href="README.md">
     <img src="https://img.shields.io/badge/Language-English-007EC6?style=for-the-badge&logo=us&logoColor=white" alt="English Version"/>
   </a>
+  <div align="center">
+  <a href="README.tr.md">
+    <img src="https://img.shields.io/badge/Language-Türkçe-E31E24?style=for-the-badge&logo=turkey&logoColor=white" alt="Türkçe Versiyon"/>
+  </a>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Language-English-007EC6?style=for-the-badge&logo=us&logoColor=white" alt="English Version"/>
+  </a>
   
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0059B3,100:007EC6&height=260&section=header&text=A%C5%9Fk%C4%B1n%20KELE%C5%9E&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Physics%20Engineer%20%7C%20Tech%20Leader%20%7C%20Solution%20Architect&descSize=20&descAlign=50&descAlignY=55&descColor=ffffff" />
+  
+  <h3>🚀 Teknoloji Lideri & Çözüm Mimarı</h3>
+  <p align="center">
+    Ankara, Türkiye merkezli; Bilişim Altyapıları, Ağ Güvenliği ve Büyük Ölçekli Kamu Projeleri Tasarımı ve Yönetimi konusunda 30+ yıllık deneyime sahip yönetici ve mühendis.
+    <br><br>
+    <i>Aynı zamanda <b>Gömülü Sistemler (Embedded)</b>, <b>Donanım Tasarımı</b> ve <b>Yazılım Mühendisliği</b> tutkusuyla aktif üretim yapan bir geliştirici.</i>
+  </p>
+
+  <a href="mailto:askinkeles@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Bana_Ulaşın-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/askinkeles">
+    <img src="https://img.shields.io/badge/LinkedIn-Profilim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <br><br>
+
+  <a href="https://github.com/askinkeles?tab=repositories">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT"/>
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=askinkeles.askinkeles" alt="visitors"/>
+  <a href="https://github.com/askinkeles?tab=followers">
+    <img src="https://img.shields.io/github/followers/askinkeles?label=Followers&style=flat-square&color=181717" alt="GitHub Followers"/>
+  </a>
+</div>
+
+---
+
+### 👨‍💻 Hakkımda ve Profesyonel Vizyonum
+
+**Fizik Mühendisiyim.** Kariyerim boyunca Türkiye'nin kritik kurumlarında mühendislikten üst düzey yöneticiliğe kadar uzanan bir yolda görev aldım. 
+
+Özellikle son yıllarda **Gömülü Donanım Tasarımı** ve **Yazılım Mühendisliği** alanlarına odaklanarak, hem yönetimsel stratejiler kurguluyor hem de aktif olarak uçtan uca sistemler (PCB, Firmware, Software) geliştiriyorum.
+
+Benim işim; **karmaşık sistemleri basite indirgemek**, stratejik planlama yapmak ve yüksek ölçekli, güvenli altyapılar tasarlamaktır. Mühendislik yaklaşımımı şu üç temel üzerine kurarım:
+
+* **Teknik Derinlik:** İstemci/Sunucu mimarilerinden **Gömülü Sistemlere (Embedded)**, **Yapay Zeka** algoritmalarından **Ağ Güvenliği** ve **Felaket Kurtarma Merkezlerine** kadar geniş bir yelpazede, teknolojiyi sadece kullanan değil, bizzat *tasarlayan* taraftayım.
+* **Stratejik Yönetim:** **Stratejik Planlama**, **Performans Esaslı Bütçeleme** ve **ISO9001** kalite süreçlerini yöneterek; iş süreçlerinin modellenmesi ve izlenmesinde sonuç odaklı bir yaklaşım sergilerim. Karar Destek Sistemleri kurarak kurumların veriye dayalı yönetilmesini sağlarım.
+* **Çözüm Mimarisi:** Temel prensibim; kullanıcı odaklı, kolay öğrenilen ve **pratik çözümler** üretmektir. Birbiriyle çatışır görünen kavramlar arasında ortak nokta bularak, metodolojiden kopmadan karmaşık sorunlara yalın çözümler getiririm.
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=askinkeles&show_icons=true&theme=radical&locale=tr&hide_border=true&bg_color=0D1117" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askinkeles&layout=compact&theme=radical&locale=tr&hide_border=true&bg_color=0D1117" height="150" alt="langs" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=askinkeles&theme=radical&hide_border=true&background=0D1117" alt="streak" />
+</div>
+
+---
+<div align="center">
+  <sub>© 2025 Aşkın Keleş. Fizik Mühendisliği Disipliniyle Kodlanmıştır.</sub>
+</div>
   <br><br>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0059B3,100:007EC6&height=260&section=header&text=A%C5%9Fk%C4%B1n%20KELE%C5%9E&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
