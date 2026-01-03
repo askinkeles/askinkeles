@@ -52,6 +52,21 @@ My job is to **simplify complex systems**, conduct strategic planning, and desig
 
 ---
 
+### 📚 Technical Expertise & Documentation
+
+Beyond specific tutorials, I maintain comprehensive documentation of my engineering notes, designs, and management models. Click on the titles below to explore detailed insights:
+
+#### [1. 🧱 Hardware Engineering](./HARDWARE.md)
+*Focuses on Electronic Components, Industrial Modules, Embedded Firmware Architectures, and PCB Design rules.*
+
+#### [2. 🌐 Infrastructure & Innovation](./INFRASTRUCTURE.md)
+*Covers Network Architecture, Data Centers, High-Availability Systems, and Artificial Intelligence integrations.*
+
+#### [3. 💼 Executive Management](./MANAGEMENT.md)
+*Details Strategic Decision Models, Performance Budgeting, and ISO9001/ITIL Process Management.*
+
+---
+
 ### 📊 GitHub Statistics
 
 <div align="center">
