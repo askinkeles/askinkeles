@@ -74,7 +74,7 @@ Beyond specific tutorials, I maintain comprehensive documentation of my engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askinkeles&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="langs" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=askinkeles&theme=radical&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=askinkeles&theme=radical&hide_border=true&background=0D1117" alt="streak" />
 </div>
 
 ---
