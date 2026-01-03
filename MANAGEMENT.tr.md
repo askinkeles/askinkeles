@@ -1,11 +1,13 @@
 # 💼 Üst Düzey Yönetim & Strateji
 
-Büyük ölçekli kamu projelerini, bütçeleri ve kalite süreçlerini yönetmeye yönelik metodolojiler.
+Büyük ölçekli kamu projeleri, bütçe yönetimi ve kalite süreçleri için metodolojiler.
 
 ## 📈 Stratejik Karar Modelleri
-* **Karar Destek Sistemleri (KDS):** Kamu kurumlarında üst yönetim için veri odaklı panoların (dashboard) tasarlanması.
-* **Performans Esaslı Bütçeleme:** Finansal kaynakların ölçülebilir çıktılar ve stratejik hedeflerle ilişkilendirilmesi.
-* **Süreç Yönetimi:** Hizmet sunumu optimizasyonu için ISO9001 kalite standartlarının ve ITIL çatılarının uygulanması.
+
+* **[📘 Stratejik Karar Modelleri (Bilgi Bankası)](https://github.com/askinkeles/strategic-decision-models):** Stratejik analiz araçlarını (SWOT, PESTEL vb.) ve karar çerçevelerini detaylıca belgelediğim aktif projem.
+* **Karar Destek Sistemleri (KDS):** Kamu kurumlarında üst yönetim için veriye dayalı yönetim panellerinin tasarlanması.
+* **Performans Esaslı Bütçeleme:** Finansal kaynakların stratejik hedefler ve ölçülebilir çıktılarla ilişkilendirilmesi.
+* **Süreç Yönetimi:** Hizmet kalitesini artırmak için ISO9001 kalite standartları ve ITIL çerçevelerinin uygulanması.
 
 ---
 [← Ana Profile Dön](./README.tr.md)
