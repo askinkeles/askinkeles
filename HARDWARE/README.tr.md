@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="README.tr.md">
+    <img src="https://img.shields.io/badge/Language-Türkçe-E31E24?style=for-the-badge&logo=turkey&logoColor=white" alt="Türkçe Versiyon"/>
+  </a>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Language-English-007EC6?style=for-the-badge&logo=us&logoColor=white" alt="English Version"/>
+  </a>
+</div>
+
 # 🧱 Teknik Uzmanlık Alanları (Engineering & Embedded)
 
 > **"Fizik prensiplerinden firmware mimarisine; donanımın ruhunu yazılımla birleştiriyorum."**
