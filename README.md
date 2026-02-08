@@ -1,6 +1,6 @@
 <div align="center">
   <a href="README.tr.md">
-    <img src="https://img.shields.io/badge/Language-Türkçe-E31E24?style=for-the-badge&logo=turkey&logoColor=white" alt="Türkçe Versiyon"/>
+    <img src="https://img.shields.io/badge/Language-Türkçe-E31E24?style=for-the-badge&logo=turkey&logoColor=white" alt="Turkish Version"/>
   </a>
   <a href="README.md">
     <img src="https://img.shields.io/badge/Language-English-007EC6?style=for-the-badge&logo=us&logoColor=white" alt="English Version"/>
@@ -10,12 +10,12 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0059B3,100:007EC6&height=260&section=header&text=A%C5%9Fk%C4%B1n%20KELE%C5%9E&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Physics%20Engineer%20%7C%20Tech%20Leader%20%7C%20Solution%20Architect&descSize=20&descAlign=50&descAlignY=55&descColor=ffffff" />
   
-  <h3>🚀 Technology Leader & Solution Architect</h3>
+  <h3>🚀 Tech Leader & Solution Architect</h3>
   
   <p align="center">
-    Based in Ankara, Türkiye; Executive and Engineer with 30+ years of experience in IT Infrastructure, Network Security, and Design/Management of Large-Scale Public Projects.
+    Executive and Engineer based in Ankara, Türkiye; with <b>years of experience</b> in IT Infrastructure, Network Security, and the Design/Management of Large-Scale Public Projects.
     <br><br>
-    <i>Also a hands-on developer passionate about <b>Embedded Systems</b>, <b>Hardware Design</b> and <b>Software Engineering</b>.</i>
+    <i>Also an active developer passionate about <b>Embedded Systems</b>, <b>Hardware Design</b>, and <b>Software Engineering</b>.</i>
   </p>
 
   <a href="mailto:askinkeles@gmail.com">
@@ -40,44 +40,50 @@
 
 ### 👨‍💻 About Me & Professional Vision
 
-**I am a Physics Engineer.** Throughout my career, I have taken on roles ranging from engineering to senior executive positions in Türkiye's critical institutions. 
+**I am a Physics Engineer.** Throughout my career, I have taken on roles ranging from engineering to senior management in critical Turkish institutions. In recent years, focusing on **Embedded Hardware Design** and **Software Engineering**, I both create management strategies and actively develop end-to-end systems (PCB, Firmware, Software).
 
-Especially in recent years, focusing on **Embedded Hardware Design** and **Software Engineering**, I both formulate management strategies and actively develop end-to-end systems (PCB, Firmware, Software).
+I build my engineering approach on three main pillars:
 
-My job is to **simplify complex systems**, conduct strategic planning, and design high-scale, secure infrastructures. I build my engineering approach on these three pillars:
-
-* **Technical Depth:** From Client/Server architectures to **Embedded Systems**, from **AI algorithms** to **Network Security** and **Disaster Recovery Centers**, I am on the side that *designs* technology, not just uses it.
-* **Strategic Management:** By managing **Strategic Planning**, **Performance-Based Budgeting**, and **ISO9001** quality processes; I exhibit a result-oriented approach in modeling and monitoring business processes. I establish Decision Support Systems to ensure data-driven management of institutions.
-* **Solution Architecture:** My fundamental principle is to produce **practical solutions** that are user-oriented and easy to learn. By finding common ground between seemingly conflicting concepts, I bring lean solutions to complex problems without deviating from methodology.
+* **Technical Depth:** From Client/Server architectures to **Embedded Systems**, from **AI algorithms** to **Network Security** and **Disaster Recovery Centers**; I am on the side that *designs* technology, not just uses it.
+* **Strategic Management:** By establishing Strategic Planning and Decision Support Systems, I ensure that institutions are managed with a data-driven approach.
+* **Solution Architecture:** My core principle is to produce lean, user-centric, and sustainable **practical solutions** for complex problems.
 
 ---
 
-### 📚 Technical Expertise & Documentation
+## 🏛️ Work Areas and Portfolio
 
-Beyond specific tutorials, I maintain comprehensive documentation of my engineering notes, designs, and management models. Click on the titles below to explore detailed insights:
+My portfolio is built on three main pillars reflecting my engineering discipline, technological vision, and managerial strategies.
 
-#### [1. 🧱 Hardware Engineering](./HARDWARE.md)
-*Focuses on Electronic Components, Industrial Modules, Embedded Firmware Architectures, and PCB Design rules.*
+### 🧱 [1. Technical Expertise (Engineering & Embedded)](./HARDWARE/README.md)
 
-#### [2. 🌐 Infrastructure & Innovation](./INFRASTRUCTURE.md)
-*Covers Network Architecture, Data Centers, High-Availability Systems, and Artificial Intelligence integrations.*
-
-#### [3. 💼 Executive Management](./MANAGEMENT.md)
-*Details Strategic Decision Models, Performance Budgeting, and ISO9001/ITIL Process Management.*
+This section brings together structural solutions, architectural approaches, and a meticulous documentation culture developed against complex engineering problems. Here, you will find not just lines of code, but an engineering philosophy blended with **Physics Engineering discipline** and sustainable system design methodologies. Each project is handled not just to fulfill a function, but as a professional engineering output serving system integrity.
 
 ---
 
-### 📊 GitHub Statistics
+### 🤖 [2. Technology and Innovation (AI & Transformation)](./INNOVATION/README.md)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=askinkeles&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askinkeles&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="langs" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=askinkeles&theme=radical&hide_border=true&background=0D1117" alt="streak" />
-</div>
+For me, technology is not an end but a lever that increases human capability and production capacity. In this area, I share my innovative approaches that transform traditional engineering processes with **modern Artificial Intelligence (AI)** and automation tools, making workflows smarter. While integrating tomorrow's technologies into today's systems, my focus is on producing next-generation solutions that simplify complexity, maximize efficiency, and are **"benefit"** oriented.
 
 ---
-<div align="center">
-  <sub>© 2025 Aşkın Keleş. Coded with the Discipline of Physics Engineering.</sub>
-</div>
+
+### 💼 [3. Strategic Management & Leadership (Executive & Strategy)](./STRATEGY/README.md)
+
+Management is not just about handling resources; it is the art of setting the system's course with data-driven strategic insights. In this section, you will find the **strategic decision models** and management philosophy I have used in my career journey from public administration to technology leadership. It is a strategy guide bringing together decision support mechanisms, performance-based budgeting approaches, and sustainable leadership principles applied while managing complex organizational structures and projects.
+
+---
+
+### 📊 GitHub Stats & Active Development
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=askinkeles&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Askin's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askinkeles&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Anything that can be measured can be improved; anything that is understood can be managed."</i>
+  <br><br>
+  <b>© 2026 Aşkın Keleş. Coded with Physics Engineering Discipline.</b>
+</p>
