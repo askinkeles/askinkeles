@@ -17,20 +17,17 @@ jobs:
           base: header, community, repositories, metadata
           config_timezone: Europe/Istanbul
           
-          # 🏆 BAŞARILAR VE MADALYALAR
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          
-          # 💻 KODLAMA ALIŞKANLIKLARI (Hangi saatlerde aktifsin?)
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
-          
-          # 📊 DİL İSTATİSTİKLERİ (Detaylı)
+          # 📊 DİLLER (En stabil çalışan kısım)
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
+          plugin_languages_details: percentage
           
+          # 🏆 BAŞARILAR (Hata riskine karşı 'ayrıntılı' modu kapattım)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          
+          # ✍️ HABITS (Hata verirse bu bloğu tamamen silebilirsin)
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no # Grafiği kapattım, sadece metin bazlı bilgi verecek (daha güvenli)
+          plugin_habits_days: 30 # Veri toplama süresini uzattım
