@@ -34,9 +34,3 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           
-          # 🏗️ PROJE AKTİVİTESİ
-          plugin_lines: yes # Kaç satır kod ekledin/sildin?
-          
-          # 🧊 3D KATKI TAKVİMİ (Profiline derinlik katar)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
