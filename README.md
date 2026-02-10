@@ -73,7 +73,7 @@ Management is not just about handling resources; it is the art of setting the sy
 ---
 
 ### 📊 GitHub Stats & Active Development
-
+![GitHub Metrics](./github-metrics.svg)
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=askinkeles&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <br>
